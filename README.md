@@ -4,12 +4,14 @@ Developed a 3D platform using OpenGL to render the 3D model, rotate, resize, and
 3D MODELLING AND ANIMATION
 
 COMPILING INSTRUCTIONS
+
   IDE USED : Microsoft Visual C++ Express 2010 
+ 
   THIRD PARTY LIBRARIES USED : GLUT, GLM
  
 USER INTSTRUCTIONS
-This program supports the mouse-based and keyboard-based camera control. 1. To rotate the object- click the left button and move the mouse
-2. To zoom in the object- use keyboard key j
+This program supports the mouse-based and keyboard-based camera control. 1. To rotate the object- click the left button and move the mouse<br>
+2. To zoom in the object- use keyboard key j<br>
 3. To zoom out the object- use keyboard key u
 4. To render object as points- use keyboard key p
 5. To render object as wireframe- use keyboard key w
